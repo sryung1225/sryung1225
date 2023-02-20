@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **sryung1225/sryung1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:CCA1CF,100:879DE7&fontColor=FFFFFF&height=250&section=header&text=I'm%20Sung-ryung&fontSize=30&animation=twinkling&fontAlign=81&desc=Hi%20there,&descAlign=90&descAlignY=40)

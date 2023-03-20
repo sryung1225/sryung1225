@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:CCA1CF,100:879DE7&fontColor=FFFFFF&height=150&section=header&text=Hello,%20Sung-ryung&fontSize=30&animation=twinkling&fontAlign=81&fontAlignY=30)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6633,100:FF495F&fontColor=FFFFFF&height=150&section=header&text=Hello,%20Sung-ryung&fontSize=30&animation=twinkling&fontAlign=81&fontAlignY=30)
   <br>
   
   <h3>💻 Tech Stack 💻</h3>
@@ -68,8 +68,8 @@ Here are some ideas to get you started:
   
   <h3>✨ GitHub Status ✨</h3>
   
-  ![sryung's github stats](https://github-readme-stats.vercel.app/api?username=sryung1225&show_icons=true&count_private=true&theme=buefy)
-  ![sryung's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sryung1225&layout=compact&count_private=true&theme=buefy&exclude_repo=boramboram_hackaton)
+  ![sryung's github stats](https://github-readme-stats.vercel.app/api?username=sryung1225&show_icons=true&count_private=true&theme=vue)
+  ![sryung's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sryung1225&layout=compact&count_private=true&theme=vue&exclude_repo=boramboram_hackaton)
 
   <br>
   

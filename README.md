@@ -39,6 +39,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gulp-%23CF4647.svg?style=flat-square&logo=gulp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  </div>
   <br>
   
   <h3>⛏ Tools 🔧</h3>
@@ -61,11 +62,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat-square&logo=gatsby&logoColor=white"/>
   </div>
+  <br>
+  
   <!-- Goal
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat-square&logo=gatsby&logoColor=white"/>
     <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
     <img src="https://img.shields.io/badge/Threejs-black?style=flat-square&logo=three.js&logoColor=white"/>
   -->

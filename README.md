@@ -55,9 +55,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Zeplin-F4BA43?style=flat-square&logo=zeplin&logoColor=white"/>
   </div>
   <br>
-  
-  <!-- Goal
+
+  <h3>📚 Studying 📚</h3>
+  <div align="center">
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat-square&logo=gatsby&logoColor=white"/>
+  </div>
+  <!-- Goal
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -72,7 +76,4 @@ Here are some ideas to get you started:
   ![sryung's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sryung1225&layout=compact&count_private=true&theme=vue&exclude_repo=boramboram_hackaton)
 
   <br>
-  
-  
-  
 </div>

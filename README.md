@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   <h3>✨ GitHub Status ✨</h3>
   
   ![sryung's github stats](https://github-readme-stats.vercel.app/api?username=sryung1225&show_icons=true&count_private=true&theme=vue)
-  ![sryung's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sryung1225&layout=compact&count_private=true&theme=vue&langs_count=6&exclude_repo=boramboram_hackaton)
+  ![sryung's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sryung1225&layout=compact&count_private=true&theme=vue&langs_count=8&exclude_repo=boramboram_hackaton)
 
   <br>
 </div>

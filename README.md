@@ -32,6 +32,7 @@ Here are some ideas to get you started:
     <br>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
     <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/>
@@ -60,15 +61,15 @@ Here are some ideas to get you started:
 
   <h3>📚 Studying 📚</h3>
   <div align="center">
-    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framer-E52FC1?style=flat-square&logo=framer&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   </div>
   <br>
   
   <!-- Goal
     <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat-square&logo=gatsby&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -80,7 +81,7 @@ Here are some ideas to get you started:
   <h3>✨ GitHub Status ✨</h3>
   
   ![sryung's github stats](https://github-readme-stats.vercel.app/api?username=sryung1225&show_icons=true&count_private=true&theme=vue)
-  ![sryung's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sryung1225&layout=compact&count_private=true&theme=vue&langs_count=8&exclude_repo=boramboram_hackaton)
+  ![sryung's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sryung1225&layout=compact&count_private=true&theme=vue&langs_count=8&exclude_repo=boramboram_hackaton,WebPub_Array)
 
   <br>
 </div>

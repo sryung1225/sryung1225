@@ -62,8 +62,8 @@ Here are some ideas to get you started:
   <h3>📚 Studying 📚</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Framer-E52FC1?style=flat-square&logo=framer&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framer motion-E52FC1?style=flat-square&logo=framer&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   </div>
   <br>

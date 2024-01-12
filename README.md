@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:EE5253,100:F5F5F1&text=Sung-Ryung%20Yi.&fontColor=246d3d&fontSize=70&fontAlign=50&animation=twinkling&desc=to%20create%20a%20joyful%20day%20as%20Christmas%20🎄&descAlign=62&descSize=17&descAlignY=78)
+  ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:EE5253,100:F5F5F1&text=Sung-Ryung%20Yi.&fontColor=246d3d&fontSize=70&fontAlign=50&animation=twinkling&desc=to%20make%20a%20joyful%20day%20as%20Christmas%20🎄&descAlign=62&descSize=17&descAlignY=78)
   <br />
   
   <h3>💻 Tech Stack 💻</h3>
@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Framer motion-E52FC1?style=flat&logo=framer&logoColor=white"/>
     <br />
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
@@ -48,6 +47,7 @@
     <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white"/>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gulp-%23CF4647.svg?style=flat-square&logo=gulp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framer motion-E52FC1?style=flat&logo=framer&logoColor=white"/>
     <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat-square&logo=gatsby&logoColor=white"/>
     <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>

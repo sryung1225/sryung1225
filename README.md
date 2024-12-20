@@ -2,6 +2,8 @@
 
   ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:EE5253,100:F5F5F1&text=Sung-Ryung%20Yi.&fontColor=246d3d&fontSize=70&fontAlign=50&animation=twinkling&desc=to%20make%20a%20joyful%20day%20as%20Christmas%20🎄&descAlign=62&descSize=17&descAlignY=78)
   <br />
+
+  <!-- Blind
   
   <h3>💻 Tech Stack 💻</h3>
   <div align="center">
@@ -38,8 +40,16 @@
     <img src="https://img.shields.io/badge/Zeplin-F4BA43?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAYCAMAAADat72NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQ1IDc5LjE2MzQ5OSwgMjAxOC8wOC8xMy0xNjo0MDoyMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkQzNTkyMjU4QjE3NjExRUU4RDhEOTBDQUIxMEYwOUMyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkQzNTkyMjU5QjE3NjExRUU4RDhEOTBDQUIxMEYwOUMyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RDM1OTIyNTZCMTc2MTFFRThEOEQ5MENBQjEwRjA5QzIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RDM1OTIyNTdCMTc2MTFFRThEOEQ5MENBQjEwRjA5QzIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4e0ytzAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP/AOW3MEoAAABcSURBVHjajNJREoAgCADR5f6XbmqYjMAt/vCBjgrxCiQ7c3ZML6c3suPg2iCj87IsKDsN8ZfBGGWUMQZhQz5a/Vz8TviDbDmE76/sXMYmuQ7FPDnDzDHgY+0QYAAftQFXf5kuvgAAAABJRU5ErkJggg=="/>
   </div>
   <br>
+  
+  <h3>✨ GitHub Status ✨</h3>
+  
+  ![sryung's github stats](https://github-readme-stats.vercel.app/api?username=sryung1225&show_icons=true&count_private=true&theme=vue)
+  ![sryung's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sryung1225&layout=compact&count_private=true&theme=vue&langs_count=8&exclude_repo=boramboram_hackaton,WebPub_Array)
 
-  <!-- Blind
+  <br>
+  -->
+
+   <!-- Blind
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
@@ -60,11 +70,4 @@
     <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
     <img src="https://img.shields.io/badge/Threejs-000000?style=flat-square&logo=three.js&logoColor=white"/>
   -->
-  
-  <h3>✨ GitHub Status ✨</h3>
-  
-  ![sryung's github stats](https://github-readme-stats.vercel.app/api?username=sryung1225&show_icons=true&count_private=true&theme=vue)
-  ![sryung's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sryung1225&layout=compact&count_private=true&theme=vue&langs_count=8&exclude_repo=boramboram_hackaton,WebPub_Array)
-
-  <br>
 </div>
